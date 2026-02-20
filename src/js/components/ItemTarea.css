@@ -1,8 +1,8 @@
-input{
-    width: 100%;
-    margin: 0%;
+li{
     background-color: rgb(198, 253, 253);
-    border: 0px;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
     padding: 5px;
     font-size: 30px;
 }
